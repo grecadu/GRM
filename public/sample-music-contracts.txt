@@ -1,0 +1,8 @@
+Artist|Title|Usages|StartDate|EndDate
+Tinie Tempah|Frisky (Live from SoHo)|digital download, streaming|2012-02-01|
+Tinie Tempah|Miami 2 Ibiza|digital download|2012-02-01|
+Tinie Tempah|Till I'm Gone|digital download|2012-08-01|
+Monkey Claw|Black Mountain|digital download|2012-02-01|
+Monkey Claw|Iron Horse|digital download, streaming|2012-06-01|
+Monkey Claw|Motor Mouth|digital download, streaming|2011-03-01|
+Monkey Claw|Christmas Special|streaming|2012-12-25|2012-12-31
