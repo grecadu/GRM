@@ -1,0 +1,2 @@
+# GRM
+Global Rights Management
